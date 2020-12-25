@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+nav{
+    height: 10vh;
+    background-color: white;
+    color: yellowgreen;
+    font-size: 3rem;
+    line-height: 10vh;
+
+}
+.container{
+    text-align: center;
+}
+.inputdiv{
+    margin: 2rem;
+}
+input{
+    border-radius: 1rem;
+    outline: none;
+    height: 5vh;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+.clickme{
+    border-radius: 1rem;
+    outline: none;
+    background-color: teal;
+    padding: 0.5rem 1rem;
+    margin: 1rem;
+}
+.statement{
+    color: white;
+    /* margin: 1rem; */
+}
+
+.output1 {
+    width: 20vh;
+    height: 5vh;
+    border: 1px solid white;
+    border-radius: 1rem;
+    margin: auto;
+    
+}
+.output2 {
+    width: 20vh;
+    height: 5vh;
+    border: 1px solid white;
+    border-radius: 1rem;
+    margin: auto;
+  
+} 
+.outputdiv{
+    padding: 2rem;
+    display: flex;
+    width: 50vw;
+    background-color: turquoise;
+    margin: auto;
+    margin-top: 3rem;
+    color: white;
+
+}
+
+
